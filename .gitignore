@@ -1,0 +1,5 @@
+/*
+!/themes
+/themes/*
+!/themes/twentynineteen-child
+!/.gitignore
